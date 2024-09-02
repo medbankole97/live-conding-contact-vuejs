@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Utiliser une image de base Node.js
 FROM node:18
 
